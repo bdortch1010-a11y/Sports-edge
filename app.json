@@ -1,0 +1,9 @@
+{
+  "expo":{
+    "name":"Sports Edge","slug":"sports-edge","version":"1.2.0",
+    "orientation":"portrait","scheme":"sportsedge","userInterfaceStyle":"dark",
+    "plugins":["expo-router"],
+    "ios":{"supportsTablet":true,"bundleIdentifier":"com.sportsedge.app"},
+    "android":{"package":"com.sportsedge.app"}
+  }
+}
